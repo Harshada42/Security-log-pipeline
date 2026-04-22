@@ -1,2 +1,2 @@
 # Security-log-pipeline
-About
+The purpose of the project is to build a pipeline that takes raw network traffic logs, cleans and organizes them, store them in a structured form, analyzes them, and then uses machine learning model to identify malicious or abnormal traffic, the project also focus on turning raw data into useful intelligence, since network data are large, and difficult to analyze manually an proper pipeline is needed to process them and use AI to detect suspicious activity. so security log data pipeline are ingests and transforms network traffic data for analysis, and integrates AI/ML models to detect anomalies and support cybersecurity decision making.
