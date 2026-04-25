@@ -1,6 +1,3 @@
-# Security-log-pipeline
-
-# Network Anomaly Detection using AI & Data Engineering
 
 This project implements an end-to-end AI-driven intrusion detection pipeline using Databricks, PySpark, SQL, and Machine Learning.
 
