@@ -40,3 +40,12 @@ Raw IDS network traffic files were ingested into Databricks and processed throug
 Multiple machine learning models were implemented and compared, including Logistic Regression, Random Forest, and Isolation Forest. Random Forest was selected as the best-performing model, achieving approximately 96% accuracy, 96% attack precision, 91% attack recall, and 93% attack F1-score. Feature importance analysis showed that packet rate, flow timing, segment size, and destination port were key indicators of malicious traffic.
 
 Overall, this project demonstrates how large-scale network logs can be transformed into actionable security intelligence for intrusion detection and cybersecurity decision-making.
+
+Requirements
+Databricks
+pyspark
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
